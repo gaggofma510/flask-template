@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cleaned up old debug logs
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Resolved deprecation warnings
+- Pinned dependency versions for reproducibility
